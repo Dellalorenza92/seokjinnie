@@ -6,20 +6,20 @@ body {
   list-style: none;
   font-size: 19px;
   float: right;
-  padding: 40px 50px;
+  padding: 30px 40px;
   color: #bba187;
 }
 
 .header{
   background-color: #fae4cc;
   height: 90px;
-  font-size: 50px;
+  font-size: 40px;
 }
 
 .header-logo{
   font-size: 36px;
   float: left;
-  padding: 20px 40px
+  padding: 15px 35px
   color: #bba187;
 }
 
