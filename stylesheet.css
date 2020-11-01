@@ -2,10 +2,10 @@ body {
   font-family:"Garamond";
 }
 
-li {
+.header-list a {
   list-style: none;
   font-size: 19px;
-  float: left;
+  float: right;
   padding: 40px 50px;
   color: #bba187;
 }
