@@ -36,3 +36,9 @@ body {
 h1 {
   text-align: center;
 }
+
+.footer {
+  bacground-color: #ebd4b4;
+  height: 270px;
+  color: white;
+}
