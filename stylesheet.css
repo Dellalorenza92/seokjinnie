@@ -32,6 +32,9 @@ body {
   background-color: #ebd4b4;
   height: 270px;
 }
+.img{ 
+  text-align: center;
+}
 
 h1 {
   text-align: center;
